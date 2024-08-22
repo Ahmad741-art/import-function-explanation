@@ -1,0 +1,3 @@
+import math
+
+print(math.sqrt(16))  # Output will be 4.0
